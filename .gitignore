@@ -1,0 +1,6 @@
+target/
+*.db
+.classpath
+.project
+.settings/
+cp.txt
